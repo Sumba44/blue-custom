@@ -1,0 +1,39 @@
+.home__categories {
+    width: 187px;
+    height: 238px;
+    margin-bottom: 45px;
+    background: #fff;
+    padding: 15px 10px;
+    border-radius: 10px;
+    border: 1px solid #f3f1f1;
+    box-shadow: 0px -154px 20px 0 rgba(0, 0, 0, 0.25);
+    text-align: center;
+}
+
+.home__categories__wrap {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -33px;
+    z-index: 1;
+    position: relative;
+}
+
+.home__categories__img {
+    width: 145px;
+}
+
+.home__categories__title {
+    color: #495057;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;
+    margin-top: 8px;
+    text-transform: uppercase;
+}
+
+.text-mute {
+    color: #5a5a5a;
+    font-size: 13px;
+    font-weight: 400;
+}
